@@ -1,0 +1,21 @@
+TO DO:
+ - Allow for separate users
+ - Allow user scoring in diary pages
+ - 
+ - Add functionality
+ - Save skeleton
+
+Future developments:
+    - Protect login/signup against robots
+    - Scheduled functions
+    - Emailing service
+    - Dev/Prod environments
+    - Unify types between FE and BE
+    - Plugin PostgreSQL instead of Firebase
+    - Create new skeletons for different BE and FE with bottlenext in 'Connection' AND/OR configuration files
+    - Document
+    - Make personal React+SemanticUI Component lib
+
+Doing:
+    - Logout from pedro@elanza.nl in firebase and login to pedrocaetano90@gmail.com account video 17;
+    
